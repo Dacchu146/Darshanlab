@@ -1,0 +1,28 @@
+Personal Details:
+Name:Darshan
+DOB:09/10/2005
+Email id:dacchu@gmail.com
+
+
+Qualifications:
+*SSLC(77%)
+*Diploma in Computer Science and Eng(9Cgpa)
+
+
+Hobbies:
+*Coding
+*Cricket
+
+Technologies:
+*Java
+*MongoDB
+*HTML
+*CSS
+
+Interested fields:
+*Software eng
+*Data engineer
+
+INTERNSHIP:
+*VV Techno(Full Stack Developer)
+     JULY.2023-DEC.2023
